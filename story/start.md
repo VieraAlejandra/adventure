@@ -18,7 +18,7 @@
 Added new teammate
 
 # The Last Light on Gull Island
-by: CS 1101
+by: Alejandra Viera & Jenyce Ellwood
 theme: paper
 
 ## dock
