@@ -15,6 +15,7 @@
   How to write a scene: see the cheat sheet in any path file, or in README.md.
   Lines inside these comment marks are notes. Players never see them.
 -->
+Added new teammate
 
 # The Last Light on Gull Island
 by: CS 1101
