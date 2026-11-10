@@ -21,7 +21,7 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by:
+by: Alejandra Viera 
 
 ## path-1
 The village is five crooked houses and a bakery. Every window is dark except the bakery's, where warm light spills onto the cobblestones.
