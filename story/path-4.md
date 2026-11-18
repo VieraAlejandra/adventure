@@ -27,11 +27,16 @@ Behind the fountain, you discover a small locked gate leading underground.
 
 You search around the fountain and notice a loose stone on the ground.
 
-Underneath it, you discover an old metal lever.
+Underneath it, you discover an old metal lever and a small silver key hidden in the dirt.
 
-When you pull it, a hidden staircase appears.
+You pick up the silver key and place it in your pocket.
+
+get: silver key
+
+When you pull the lever, a hidden staircase appears.
 
 [Walk down the staircase](#garden-tunnel)
+[Return to the fountain](#garden-fountain)
 [Return to the garden](#path-4)
 
 ## garden-voice
