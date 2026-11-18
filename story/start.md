@@ -42,9 +42,8 @@ You notice a flickering light upstairs and a strange knocking sound coming from 
 
 Where will you investigate first?
 
-[Go downstairs and investigate the strange knocking](#path-1)
-
-[Go upstairs and follow the mysterious footsteps](#path-2)
+[Go downstairs and investigate the strange knocking](#path-2)
+[Go upstairs and follow the mysterious footsteps](#path-1)
 
 [Explore the mansion's hidden library](#path-3)
 
