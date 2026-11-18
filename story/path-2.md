@@ -21,45 +21,73 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by: Alejandra Viera 
+
+
+
+by: Alejandra Viera
 
 ## path-2
-The cliff trail is narrow, and the wind shoves at you like it wants you gone. Far below, waves smash white against the rocks.
 
-Halfway along, a dark cave opens into the cliff.
+You decide to walk down the dark staircase to investigate the strange knocking sounds. The basement is cold, and the walls are covered in cobwebs. As you reach the bottom, the knocking suddenly stops.
 
-[Look over the edge](#cliff-edge)
-[Step into the cave](#cave)
-[Go back to the crossroads](#crossroads)
+You notice an old wooden door at the end of the hallway. Beside it, a small storage room is slightly open.
 
-## cliff-edge
-You lean out for a better look. The ground at the edge is softer than it looked.
+[Open the wooden door](#wooden-door)
 
-It gives way. You slide, bounce, and land with a splash in a deep pool between the rocks: soaked, furious, and completely unhurt. By the time you've climbed out, the night is over.
+[Explore the storage room](#storage-room)
+
+[Go back to the entrance](#crossroads)
+
+## wooden-door
+
+You slowly open the wooden door and discover a secret room filled with old photographs of the Blackwood family.
+
+Suddenly, you hear footsteps behind you. When you turn around, a shadowy figure is standing in the doorway.
+
+[Investigate the shadow](#shadow)
+
+[Hide behind the furniture](#hiding)
+
+## storage-room
+
+You enter the storage room and discover a dusty wooden chest. Inside, you find an old key and a letter written by the Blackwood family.
+
+The letter warns that a mysterious spirit has been trapped inside the mansion for twenty years.
+
+get: key
+
+[Use the key to unlock the secret door](#secret-door) if key
+
+[Return to the basement hallway](#path-2)
+
+## shadow
+
+You gather your courage and approach the shadowy figure. As you get closer, the figure disappears, leaving behind a message written on the wall.
+
+"The truth is hidden beneath the mansion."
+
+You realize the Blackwood family may still be trapped somewhere inside.
 
 THE END
 
-## cave
-A few steps in, the daylight gives up. You hear dripping water and, deeper in, something that might be wings.
+## hiding
 
-It's far too dark to go further without a light.
+You quickly hide behind an old cabinet. The shadow moves across the room before disappearing into the darkness.
 
-[Light your lantern and go deeper](#deep-cave) if lantern
-[Back out into the wind](#path-2)
+You wait until everything becomes quiet, then escape through a small window leading outside the mansion.
 
-## deep-cave
-Your lantern shows painted walls: ships, waves, and a tall tower with a light at the top. Hundreds of gulls watch you from their nests.
+You survived the haunted mansion, but the mystery remains unsolved.
 
-In the biggest nest sits a gull wearing a tiny golden crown. She looks at you. You look at her.
+THE END
 
-[Bow to the Gull Queen](#gull-queen)
-[Back away slowly](#path-2)
+## secret-door
 
-## gull-queen
-The Gull Queen nods once. Every gull in the cave rises together and pours out into the night.
+You use the old key to unlock the secret door. Inside, you discover a hidden room containing the missing Blackwood family's belongings.
 
-They circle the dark tower, a thousand white wings shining in the fog, so bright that the ship's captain sees them and steers clear of the rocks.
+An old diary reveals that the family disappeared after attempting to communicate with a spirit haunting the mansion.
 
-Nobody in the village will ever believe you.
+You take the diary and escape through a hidden passage that leads outside.
+
+You have survived and uncovered the truth behind the Forgotten Mansion!
 
 THE END
