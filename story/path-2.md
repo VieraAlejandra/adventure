@@ -39,8 +39,11 @@ You notice an old wooden door at the end of the hallway. Beside it, a small stor
 [Go back to the entrance](#crossroads)
 
 ## wooden-door
+
 get: key
+
 You slowly open the wooden door and discover a secret room filled with old photographs of the Blackwood family.
+
 
 Suddenly, you hear footsteps behind you. When you turn around, a shadowy figure is standing in the doorway.
 
