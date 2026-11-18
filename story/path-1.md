@@ -21,39 +21,68 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by: Alejandra Viera 
+
+by: Alejandra Viera
 
 ## path-1
-The village is five crooked houses and a bakery. Every window is dark except the bakery's, where warm light spills onto the cobblestones.
 
-A little sign on the house next door says KEEPER in faded paint.
+You decide to walk up the old staircase to investigate the strange footsteps. Each step creaks beneath your feet, and the hallway upstairs is dark and cold.
 
-[Knock on the bakery door](#bakery)
-[Knock on the keeper's house](#old-keeper)
-[Go back to the crossroads](#crossroads)
+At the end of the hallway, you notice a bedroom door slightly open. Suddenly, you hear someone whisper your name.
 
-## bakery
-Rosa the baker opens the door in a cloud of flour. "You're the new keeper? Then you'll want this. The tower stairs are black as a boot at night."
+[Enter the bedroom](#bedroom)
 
-She hands you an old brass lantern.
+[Follow the whisper](#hallway)
 
-get: lantern
+[Go back to the entrance](#crossroads)
 
-"There's pie, if you'd like some," she adds. "Blackberry."
+## bedroom
 
-[Stay for a slice of pie](#pie)
-[Thank her and head back out](#path-1)
+You slowly enter the bedroom and notice old furniture covered in dust. On a small wooden desk, you find a diary belonging to the Blackwood family.
 
-## pie
-The pie is warm, and the chair by the oven is soft. You close your eyes for just a moment.
+You open the diary and discover that the family was hiding a terrible secret about the mansion.
 
-When you open them, it's morning. The ship made it past the rocks by pure luck, and the harbor master is waiting outside with a very long list of complaints.
+get: diary
+
+Suddenly, the bedroom door slams shut behind you.
+
+[Read the diary](#diary)
+
+[Try to escape the bedroom](#escape)
+
+## hallway
+
+You follow the whisper down the dark hallway. A mysterious shadow appears at the end of the corridor.
+
+You try to run, but the shadow moves closer. Suddenly, everything goes dark.
 
 THE END
 
-## old-keeper
-An old man opens the door just a crack. "Abernathy," he says. "I kept that light for forty years."
+## diary
 
-"The tower door is locked, and the only key went down with my boat when she sank off the south beach. If you want that light lit, the key is in the wreck."
+You read the final page of the diary and discover that the Blackwood family disappeared after opening a secret room inside the mansion.
 
-[Go back to the crossroads](#crossroads)
+The diary explains that a hidden passage behind the bedroom bookshelf leads outside.
+
+[Search behind the bookshelf](#secret-passage)
+
+[Try opening the bedroom door](#escape)
+
+## escape
+
+You pull on the bedroom door, but it will not open. The lights flicker, and you hear footsteps approaching.
+
+You realize that something inside the mansion does not want you to leave.
+
+THE END
+
+## secret-passage
+
+You push the bookshelf aside and discover a narrow passage. You follow it until you see moonlight shining through a small opening.
+
+You crawl outside and escape the mansion safely, carrying the Blackwood family's diary.
+
+You survived The Forgotten Mansion and uncovered part of its mystery.
+
+THE END
+
