@@ -1,60 +1,106 @@
-<!--
-  PATH-4.MD: one teammate's part of the story.
-
-  Put your name after by: below. It's shown at the end of your endings.
-
-  Your first scene must be called path-4. The crossroads scene in start.md
-  links to #path-4, so that's how players get here. Everything else in this
-  file is yours: rewrite it, add scenes, add endings.
-
-  Cheat sheet:
-    ## scene-name                  starts a new scene (lowercase letters,
-                                   numbers and dashes, no spaces)
-    Any text you like.             a blank line starts a new paragraph
-    **bold**   *italic*
-    ![What the picture shows](images/my-picture.png)
-    get: lantern                   the player picks up a lantern
-    [Open the door](#hall)         a choice: leads to the scene called hall
-    [Unlock it](#vault) if key     a choice that only works if you have a key
-    THE END                        this scene is an ending
-
-  Lines inside these comment marks are notes. Players never see them.
--->
 
 by: Jenyce Ellwood
 
 ## path-4
-Up close, the lighthouse is taller than it looked. Its white paint is peeling, and the great lamp room at the top is completely dark. The door is thick oak with an iron lock.
 
-[Unlock the door](#stairs) if iron key
-[Knock and hope someone answers](#knock)
-[Go back to the crossroads](#crossroads)
+You find a glass door leading to the mansion's abandoned garden.
 
-## knock
-You knock. The sound echoes up the inside of the tower. Nobody answers.
+Outside, dead flowers cover the ground and a broken fountain stands in the center.
 
-Of course nobody answers. You're the keeper.
+As you walk closer, you hear someone whisper your name.
 
-[Step back](#path-4)
+[Investigate the broken fountain](#garden-fountain)
+[Follow the whispering voice](#garden-voice)
+[Return to the entrance hall](#crossroads)
 
-## stairs
-The key turns with a groan. Inside, a spiral staircase winds up into total darkness.
+## garden-fountain
 
-[Climb in the dark](#fall)
-[Light your lantern and climb](#lamp-room) if lantern
+You approach the fountain and notice strange symbols carved into the stone.
 
-## fall
-Somewhere past step one hundred, your foot finds nothing at all. You sit down hard and decide to wait for morning.
+Behind the fountain, you discover a small locked gate leading underground.
 
-The ship gets past the rocks, just barely. The next day, its captain sends you a very angry letter.
+[Unlock the gate with the silver key](#garden-tunnel) if silver key
+[Search for another entrance](#garden-search)
+[Return to the garden](#path-4)
+
+## garden-search
+
+You search around the fountain and notice a loose stone on the ground.
+
+Underneath it, you discover an old metal lever.
+
+When you pull it, a hidden staircase appears.
+
+[Walk down the staircase](#garden-tunnel)
+[Return to the garden](#path-4)
+
+## garden-voice
+
+You follow the voice through the overgrown bushes.
+
+Suddenly, a shadow appears near an old tree. It looks like a young girl wearing a white dress.
+
+She points toward the fountain before disappearing.
+
+[Investigate the fountain](#garden-fountain)
+[Run back to the mansion](#crossroads)
+
+## garden-tunnel
+
+You carefully walk down the dark staircase and discover a hidden room beneath the garden.
+
+Inside, you find old furniture, family photographs, and a locked wooden chest.
+
+A strange sound comes from behind you.
+
+[Open the wooden chest](#garden-chest)
+[Investigate the strange sound](#garden-shadow)
+
+## garden-chest
+
+You force open the old chest and discover a letter written by Mr. Blackwood.
+
+The letter explains that the family had been hiding from a mysterious presence inside the mansion.
+
+They created the underground room to escape, but something followed them.
+
+Suddenly, you hear the same whispering voice again.
+
+[Search for a way out](#garden-escape)
+[Stay and investigate](#garden-trapped)
+
+## garden-shadow
+
+You turn around and see a dark figure standing at the entrance.
+
+It slowly moves toward you.
+
+You run toward the staircase, but the entrance suddenly closes.
+
+The last thing you hear is someone whispering, "You should have never come here."
 
 THE END
 
-## lamp-room
-At the top, the great lamp sits inside a cage of glass prisms. You open the little door at its base, turn the brass valve, and touch your lantern's flame to the wick.
+## garden-escape
 
-The light blooms. The prisms catch it and throw it out across the water in a slow, turning beam.
+You notice a small wooden door behind the furniture.
 
-Far out in the fog, a ship's horn answers with two long blasts. *Thank you.*
+You push it open and discover a tunnel leading outside the mansion.
+
+You and your friend finally escape.
+
+Although you never discover exactly what happened to the Blackwood family, you survive to tell the story.
+
+THE END
+
+## garden-trapped
+
+You decide to continue searching the underground room.
+
+Suddenly, the lights go out and the door slams shut.
+
+You hear footsteps getting closer.
+
+You realize that the Blackwood family was not the only one trapped beneath the mansion.
 
 THE END
