@@ -1,62 +1,88 @@
-<!--
-  PATH-3.MD: one teammate's part of the story.
 
-  Put your name after by: below. It's shown at the end of your endings.
-
-  Your first scene must be called path-3. The crossroads scene in start.md
-  links to #path-3, so that's how players get here. Everything else in this
-  file is yours: rewrite it, add scenes, add endings.
-
-  Cheat sheet:
-    ## scene-name                  starts a new scene (lowercase letters,
-                                   numbers and dashes, no spaces)
-    Any text you like.             a blank line starts a new paragraph
-    **bold**   *italic*
-    ![What the picture shows](images/my-picture.png)
-    get: lantern                   the player picks up a lantern
-    [Open the door](#hall)         a choice: leads to the scene called hall
-    [Unlock it](#vault) if key     a choice that only works if you have a key
-    THE END                        this scene is an ending
-
-  Lines inside these comment marks are notes. Players never see them.
--->
-
-by: Jenyce Ellwood 
+by: Jenyce Ellwood
 
 ## path-3
-The beach is cold grey sand. The tide is out, and the ribs of an old boat poke out of the water near the rocks.
 
-The name on its side is almost worn away: *Abernathy's Pride*.
+You walk down a dark hallway and discover a wooden door covered in dust. A small sign reads "Library."
 
-[Wade out to the wreck](#wreck)
-[Build a sandcastle](#sandcastle)
-[Go back to the crossroads](#crossroads)
+As you open the door, you notice hundreds of old books and a strange painting of the Blackwood family.
 
-## sandcastle
-It's a very good sandcastle: four towers, a moat, and a flag made from a gull feather. You lose track of time completely.
+Suddenly, a book falls from a shelf even though nobody is near it.
 
-When you finally look up, the fog has cleared and the sun is rising.
+[Pick up the fallen book](#library-book)
+[Examine the family painting](#library-painting)
+[Return to the entrance hall](#crossroads)
+
+## library-book
+
+You pick up the book and notice that several pages have been torn out.
+
+Inside, you find a handwritten note that says, "The truth is hidden where the flowers no longer grow."
+
+You realize this might be a clue about the mysterious garden.
+
+[Search the bookshelf for more clues](#library-shelf)
+[Go investigate the garden](#path-4)
+
+## library-painting
+
+You walk closer to the painting and notice that one of the family members is holding a silver key.
+
+When you touch the painting, it suddenly moves and reveals a hidden compartment.
+
+Inside is a small silver key.
+
+get: silver key
+
+[Search the bookshelf](#library-shelf)
+[Investigate the mysterious garden](#path-4)
+
+## library-shelf
+
+You search through the old books and discover a diary belonging to Mrs. Blackwood.
+
+The final entry says, "We should have never opened the secret passage beneath the garden."
+
+Before you can read more, the library door slams shut.
+
+[Try to open the library door](#library-escape)
+[Follow the whispering voice](#library-whispers)
+
+## library-escape
+
+You rush toward the door and pull the handle. After several attempts, it finally opens.
+
+You escape into the hallway, but the mystery of the Blackwood family remains unsolved.
 
 THE END
 
-## wreck
-The water is freezing. You climb into the wreck and find a rusty tin box wedged under a seat. Inside, wrapped in oilcloth, is a heavy iron key.
+## library-whispers
 
-get: iron key
+You follow the whispering voice toward a bookshelf. Suddenly, the shelf moves and reveals a hidden passage.
 
-The tide is starting to come back in.
+A cold wind blows through the opening.
 
-[Hurry back to shore](#path-3)
-[Keep searching the wreck](#wreck-deeper)
+[Enter the hidden passage](#library-secret)
+[Run back to the entrance hall](#crossroads)
 
-## wreck-deeper
-You find a bent spoon, half a boot, and a crab who does not want to be found.
+## library-secret
 
-When you turn around, the water is up to your chest.
+You enter the passage and discover a small room filled with photographs of the missing Blackwood family.
 
-[Swim for it](#swim)
+On a table, you find a letter explaining that the family discovered something dangerous beneath the garden.
 
-## swim
-You swim, you splutter, and you crawl up onto the sand just as the waves close over the wreck.
+You now know where to search next.
 
-[Catch your breath](#path-3)
+[Continue to the mysterious garden](#path-4)
+[Stay inside the hidden room](#library-ending)
+
+## library-ending
+
+You decide to stay and examine the photographs.
+
+Suddenly, the hidden door closes behind you. You hear footsteps approaching, but there is nowhere to hide.
+
+The mystery of the mansion has claimed another visitor.
+
+THE END
+
