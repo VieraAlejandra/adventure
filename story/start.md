@@ -35,6 +35,9 @@ You realize that you are not alone. If you want to escape, you must uncover the 
 [Explore the mansion](#crossroads)
 
 ## crossroads
+You notice an old lantern sitting on a wooden table near the staircase. You pick it up.
+
+get: lantern
 
 You stand in the entrance hall. A grand staircase leads upstairs, while a dark hallway leads down toward the basement. The air feels cold, and you hear strange whispers coming from both directions.
 
