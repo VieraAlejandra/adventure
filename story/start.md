@@ -15,7 +15,6 @@
   How to write a scene: see the cheat sheet in any path file, or in README.md.
   Lines inside these comment marks are notes. Players never see them.
 -->
-Added new teammate
 
 # The Forgotten Mansion 
 by: Alejandra Viera & Jenyce Ellwood 
@@ -23,7 +22,7 @@ theme: night
 
 
 ## entrance
-![An abandoned mansion surrounded by fog under a full moon](../images/mansion.jpeg)
+![An abandoned mansion surrounded by fog under a full moon](images/mansion.jpeg)
 
 Twenty years ago, the Blackwood family mysteriously disappeared from their mansion. Nobody knows what happened to them, and the mansion has remained abandoned ever since. Local rumors claim that strange lights appear in the windows at night and that anyone who enters hears whispers coming from inside.
 
