@@ -17,25 +17,36 @@
 -->
 Added new teammate
 
-# The Last Light on Gull Island
-by: CS 1101
-theme: paper
+# The Forgotten Mansion 
+by: Alejandra Viera 
+theme: night
 
-## dock
-![A small rocky island at dusk, with a dark lighthouse on the cliff](images/island.svg)
 
-The ferry leaves you on a crooked wooden dock and chugs off into the fog. You are the new lighthouse keeper of Gull Island, and this is your first night on the job.
+## entrance
+![An abandoned mansion surrounded by fog under a full moon](images/mansion.jpeg)
 
-Up on the cliff, the lighthouse is dark. It should have been lit an hour ago.
+Twenty years ago, the Blackwood family mysteriously disappeared from their mansion. Nobody knows what happened to them, and the mansion has remained abandoned ever since. Local rumors claim that strange lights appear in the windows at night and that anyone who enters hears whispers coming from inside.
 
-Somewhere out in the fog, a ship's horn sounds. Then another, closer.
+One stormy night, you and your friend decide to investigate the mansion. As you approach the front door, it slowly creaks open. You step inside, but suddenly the door slams shut behind you.
 
-[Find a way to get that light working](#crossroads)
+A cold breeze passes through the hallway. You hear strange footsteps upstairs and three loud knocks coming from somewhere below.
+
+You realize that you are not alone. If you want to escape, you must uncover the secrets hidden inside the mansion.
+
+[Explore the mansion](#crossroads)
 
 ## crossroads
-You stand where the island's paths meet. Gulls complain from every roof and rock, and the dark tower watches over all of it.
 
-[Walk up the hill to the village](#path-1)
-[Take the windy trail along the cliffs](#path-2)
-[Head down to the beach](#path-3)
-[Go straight to the lighthouse](#path-4)
+You stand in the entrance hall. A grand staircase leads upstairs, while a dark hallway leads down toward the basement. The air feels cold, and you hear strange whispers coming from both directions.
+
+You notice a flickering light upstairs and a strange knocking sound coming from below.
+
+Where will you investigate first?
+
+[Go downstairs and investigate the strange knocking](#path-1)
+
+[Go upstairs and follow the mysterious footsteps](#path-2)
+
+[Explore the mansion's hidden library](#path-3)
+
+[Investigate the mysterious garden](#path-4)
