@@ -39,7 +39,7 @@ You notice an old wooden door at the end of the hallway. Beside it, a small stor
 [Go back to the entrance](#crossroads)
 
 ## wooden-door
-
+get: key
 You slowly open the wooden door and discover a secret room filled with old photographs of the Blackwood family.
 
 Suddenly, you hear footsteps behind you. When you turn around, a shadowy figure is standing in the doorway.
@@ -50,11 +50,10 @@ Suddenly, you hear footsteps behind you. When you turn around, a shadowy figure 
 
 ## storage-room
 
-You enter the storage room and discover a dusty wooden chest. Inside, you find an old key and a letter written by the Blackwood family.
-
+You enter the storage room and discover a dusty wooden chest. Inside, you find an old letter written by the Blackwood family.
 The letter warns that a mysterious spirit has been trapped inside the mansion for twenty years.
 
-get: key
+
 
 [Use the key to unlock the secret door](#secret-door) if key
 
